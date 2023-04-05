@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="left"> <img height="137px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FaustProMaxPX&theme=nord_light" /> </div>
+<div align="left"> <img height="137px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FaustProMaxPX&theme=monokai" /> </div>
 
-<div align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FaustProMaxPX&theme=nord_light&exclude=HTML,CSS" /> </div>
+<div align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FaustProMaxPX&theme=monokai&exclude=HTML,CSS" /> </div>
 
-<div> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FaustProMaxPX&theme=nord_light"> </div>
+<div> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FaustProMaxPX&theme=monokai"> </div>
