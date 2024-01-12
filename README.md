@@ -6,7 +6,7 @@ Here are some funny facts about me:
 
 - Learning and writing backend for 1 years, but still a rookie.
 
-- I'm good at Java, but its just for survival. Rust and Go is life. 😄
+- I'm good at Java, but its just for survival. Rust is life. 😄
 
 - Try to be a churchman of rust ✨ 
 
