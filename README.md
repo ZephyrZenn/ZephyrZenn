@@ -27,12 +27,12 @@ Here are some ideas to get you started:
 
 
 <div> 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FaustProMaxPX&theme=monokai&exclude=HTML,CSS" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=FaustProMaxPX&theme=monokai">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZephyrZenn&theme=monokai&exclude=HTML,CSS" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZephyrZenn&theme=monokai">
   
 </div>
 
 <div> 
-  <img height="137px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FaustProMaxPX&theme=monokai" />
+  <img height="137px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZephyrZenn&theme=monokai" />
 </div>
 
