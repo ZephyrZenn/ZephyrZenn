@@ -2,7 +2,7 @@
 
 Here are some funny facts about me:
 
-- I'm an undergraduate student of NWPU.
+- I graduated from NWPU. I'm a graduate student in NUS SOC now.
 
 - Learning and writing backend for 1 years, but still a rookie.
 
