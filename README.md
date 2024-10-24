@@ -2,11 +2,13 @@
 
 Here are some funny facts about me:
 
-- I graduated from NWPU. I'm a graduate student in NUS SOC now.
+- Graduated from NWPU and is a master student in NUS Soc now.
 
 - Learning and writing backend for 1 years, but still a rookie.
 
-- I'm good at Java, but its just for survival. Rust is life. 😄
+- Prefer to explore magic in database and distributed system. 😄
+
+- Want to master the principle of ML, but still in stage of using GPT.
 
 - Try to be a churchman of rust ✨ 
 
